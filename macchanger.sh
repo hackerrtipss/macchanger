@@ -1,0 +1,1 @@
+macchanger -r eth0
